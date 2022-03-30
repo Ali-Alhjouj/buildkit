@@ -1,0 +1,2 @@
+step:
+  - command: "echo hello"
