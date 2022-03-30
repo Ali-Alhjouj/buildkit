@@ -1,3 +1,5 @@
 steps:
   - command: "echo 'hello'"
     lable: ":pipline: echo"
+    agent: 
+      queue: "automation-basic-builder-fleet"
